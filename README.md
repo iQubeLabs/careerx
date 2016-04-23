@@ -6,7 +6,7 @@ Interactive survery application that predicts what IT career is most suitable to
 It is to be built in a hack style, so expect a few glitches.
 
 ## Contributions
-All contribution will should be done through a fork. 
+All contributions should be done through a fork. 
 So fork the repo, and send in a pull request after making updates.
 
 ## Bug Reports
